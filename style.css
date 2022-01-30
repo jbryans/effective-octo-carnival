@@ -7,7 +7,7 @@ h1 {
 
 h2 {
     color: blue;
-    border: red 40px thick;
+    border: red 40px groove;
     width: fit-content;
     background-color: chartreuse;
 }
