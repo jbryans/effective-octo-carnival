@@ -4,3 +4,15 @@ h1 {
     border:burlywood 30px groove; 
     width: fit-content;
 }
+
+h2 {
+    color: blue;
+    border: red 40px thick;
+    width: fit-content;
+    background-color: chartreuse;
+}
+
+h3 {
+    color: chartreuse;
+
+}
